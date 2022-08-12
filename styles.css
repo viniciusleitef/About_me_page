@@ -198,7 +198,7 @@ footer p{
     .sidebar_menu{
         display: block;
         position: absolute;
-        width: 500px;
+        width: 350px;
         height: 100vh;
         background-color: #292d33;
         z-index: 10;
